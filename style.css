@@ -331,6 +331,6 @@ a {
 .linkedin{
     margin: 0 15px;
 }
-/*body{
-    background-image: url(assets/Hand.svg);
-}*/
+html{
+    scroll-behavior: smooth;
+}
